@@ -1,6 +1,6 @@
 # Vehicle Rental System 
 
-**Live URL:** [https://l2-b6-a2-six.vercel.app/]
+**Live URL:** https://l2-b6-a2-six.vercel.app/
 
 ---
 
