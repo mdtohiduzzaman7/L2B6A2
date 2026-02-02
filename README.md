@@ -1,10 +1,10 @@
-# Vehicle Rental System 🚗
+# Vehicle Rental System 
 
 **Live URL:** [Add your live deployment URL here]
 
 ---
 
-## 🔹 Project Overview
+## Project Overview
 A full-featured backend API for managing a vehicle rental system.  
 Supports vehicles, customers, bookings, authentication, and automated business rules.
 
@@ -20,7 +20,7 @@ Supports vehicles, customers, bookings, authentication, and automated business r
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 - **Backend:** Node.js + TypeScript  
 - **Web Framework:** Express.js  
 - **Database:** PostgreSQL  
